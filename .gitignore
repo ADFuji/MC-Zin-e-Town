@@ -1,0 +1,7 @@
+mods/*.jar
+server.properties
+whitelist.json
+ops.json
+logs/
+backups/
+world/

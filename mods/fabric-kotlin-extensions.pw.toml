@@ -1,0 +1,13 @@
+name = "Fabric Kotlin Extensions"
+filename = "FabricKotlinExtensions-1.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WpZeWuIG/versions/2ItWo7ar/FabricKotlinExtensions-1.1.6.jar"
+hash-format = "sha512"
+hash = "f5dcc1dfec1d452c0ab66b2503ea0f74266dea4ce911021e662c1f1784d2fc24eeb733f94afa12a7b0f4ba3724a988240f1805deb1049db53c02e03807558dab"
+
+[update]
+[update.modrinth]
+mod-id = "WpZeWuIG"
+version = "2ItWo7ar"

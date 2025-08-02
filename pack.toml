@@ -1,0 +1,13 @@
+name = "Zinée Town"
+author = "AD"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d8d1a9bdafb56c7a51cf400ed8f79a99ed8550e228633940af2d52df97dfb32b"
+
+[versions]
+fabric = "0.17.0"
+minecraft = "1.20.1"

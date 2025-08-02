@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE"
-hash = "3fc623735d0fa8877a28d26824b44d2f40951c177a36dd71de4986d47ae7a42d"
+hash = "d2ec545fc4167beb9ae0b45ab82d5e97b1a102cb7611c8aaf790acce30219db5"
 
 [[files]]
 file = "README.md"
-hash = "e5210f18e6a0fce745a455ec2a668d586051be83f34d74b8a47b2d683114da73"
+hash = "f4d7e18120771f8fba963e633d22ba2b1705dda5b3648c3b5b23ed2cc3610273"
 
 [[files]]
 file = "mods/appleskin.pw.toml"

@@ -1,2 +1,2 @@
-# MC-Zin-e-Town
+# MC Zinée Town
 Modpack Minecraft du serveur du Zinée Club

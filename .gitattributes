@@ -1,3 +1,2 @@
-server-icon.png -text
 *.png binary
-* text eol=lf
+*.toml text eol=lf

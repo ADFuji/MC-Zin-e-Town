@@ -1,13 +1,17 @@
-name = "Zinée Town"
+name = "Zinée Town 1.0.7"
 author = "AD"
-version = "1.0.6"
+version = "1.0.7"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "db91c53baf39b8b9b852a0b40813342d30f56e77e1be826299ed6bb6663412b9"
+hash = "37e769aba86384f24b01de49b2b8618e64cf53ba30aefe9e9bbb2573b654352c"
 
 [versions]
 fabric = "0.17.0"
+forge = "47.4.5"
 minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.20.1", "fabric", "forge", "neoforge"]

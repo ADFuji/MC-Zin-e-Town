@@ -95,12 +95,17 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "60adfc1ee75f10a7290e18f3e2b82601a3d3915db0c53dabe08dd17daf1c7d76"
+hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
+metafile = true
+
+[[files]]
+file = "mods/kilt.pw.toml"
+hash = "be85ec8af5ec69e63eb4b84061baaabb7f4c983ade50190d57c68575c750c08d"
 metafile = true
 
 [[files]]
@@ -144,13 +149,18 @@ hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
 metafile = true
 
 [[files]]
+file = "mods/security-craft.pw.toml"
+hash = "e1ba99a16736c1f1cf3f88f5f88be42b529922a066ca4c1f67384c5b69d37a4b"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "177b37256afd171f2e5447434057f604acd09b5328e85e46ed4c5399f90269f5"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "356a264757b1b5d0eda01c8c09ec7dd40062e93003d1e5ee027d3215eef2e0ce"
+hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]

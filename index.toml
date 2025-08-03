@@ -109,6 +109,11 @@ hash = "be85ec8af5ec69e63eb4b84061baaabb7f4c983ade50190d57c68575c750c08d"
 metafile = true
 
 [[files]]
+file = "mods/ledger.pw.toml"
+hash = "56094cd33726792df84e8991bf1e9e3d69383a65793d47aab66bf2cac3f9acfb"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
 metafile = true
@@ -136,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "0a6b6ce76026e217af6d2c1d2f8cf6992ae45026a94172687d9c50cbf2e00b5a"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "d9c5210eba2029803417c8bb52345bac716834e13ba0dc989b11b4fe98007a98"
 metafile = true
 
 [[files]]

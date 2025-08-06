@@ -104,6 +104,16 @@ hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "a615fd6551b3d47e2d0e42e4ec30df6293bec90c135f1022113425ab8f23f7a6"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "60300c6873d127b49ba31b11abc8fa7ac65008480c21c0db4c36d46db25426c5"
+metafile = true
+
+[[files]]
 file = "mods/kilt.pw.toml"
 hash = "be85ec8af5ec69e63eb4b84061baaabb7f4c983ade50190d57c68575c750c08d"
 metafile = true

@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/ledger-databases.pw.toml"
-hash = "d8c5d10864c6ee4a5ffdcf775ef6325fb88e6441db9c5c7874be1a6f1d714250"
+hash = "f494ef21a5ef844134aad77bb2e5132be64b79e5b83951b0073ab5bde6d2bc4c"
 metafile = true
 
 [[files]]
@@ -151,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "0a6b6ce76026e217af6d2c1d2f8cf6992ae45026a94172687d9c50cbf2e00b5a"
+metafile = true
+
+[[files]]
+file = "mods/nuit.pw.toml"
+hash = "421b6b05164e623dc65e0e4133fc484fb3b87b26b040ad4b2ffb239491d8bb2d"
 metafile = true
 
 [[files]]
@@ -219,5 +224,45 @@ hash = "bbde815d37f2d9e01be4c39266bc2219222384737b4e6958a0047397a31c80fb"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "05fd60a86961b215f70ff466216926550292ae6ed8bba7baa7830d935d9e4096"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-hd-128x.pw.toml"
+hash = "aa478c65534e83ff8a454232bbac1ff8b823c308fa09faed0ceb7a4137bf3daf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dramatic-skys.pw.toml"
+hash = "de23b05984285fcfee55b8afe6b957b7d7105ce9ce349ed3775700f96a3fdb79"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-32x.pw.toml"
+hash = "b22b019980b8dc09eb4ce0536a032bc569ae2999a48057816af4de057e5cdc10"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-64x.pw.toml"
+hash = "36f0c68246d34c6e911190e1fd4ff5a8512c3a239d00739fffa6855b807f0ad3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/round-trees.pw.toml"
+hash = "df2cf88ec48d05e69b61a75d625d645a87655ffed69d2c875fff3611b9373278"
+metafile = true
+
+[[files]]
 file = "server-icon.png"
 hash = "a520ac0201beb189b3881197867be35a29a54028b31972d10ca71d7953379a0b"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "7bc808ef10add6798ef70e8b9e15ad3d0ca73985ee2e444ccfbfbebd861b9854"
+metafile = true

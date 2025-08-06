@@ -9,10 +9,6 @@ file = "README.md"
 hash = "f4d7e18120771f8fba963e633d22ba2b1705dda5b3648c3b5b23ed2cc3610273"
 
 [[files]]
-file = "exports/Zinée Town 1.0.8-1.0.8.zip"
-hash = "318354a3f42f7fb7a94b920e0c2414ce6bde5d8ff810d590307341349f4749b1"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
@@ -59,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "9c553500c771ace491481e52fb2a144e97ce332f03bc36155b62bcf5e64877ed"
+hash = "7aeada4777b3f686c0a01f681f802240659445124679e308e1c9fdc036fc2030"
 metafile = true
 
 [[files]]
@@ -195,21 +191,6 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "d9c5210eba2029803417c8bb52345bac716834e13ba0dc989b11b4fe98007a98"
-metafile = true
-
-[[files]]
-file = "mods/player-emotes.pw.toml"
-hash = "85d674624aa8d26f447b8e86003487b0c17694eb4df842fbdc028a21c835811c"
-metafile = true
-
-[[files]]
-file = "mods/playeranimator.pw.toml"
-hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
-metafile = true
-
-[[files]]
-file = "mods/playeranimatorapi.pw.toml"
-hash = "1d9d7beb37be5f3678a89f979936a514a0576343c7ea02d1ab1f21be98709a14"
 metafile = true
 
 [[files]]

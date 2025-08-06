@@ -1,0 +1,13 @@
+name = "Player Emotes"
+filename = "playeremotes-fabric-1.20.1-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TfUCUpDy/versions/Nfke7vhz/playeremotes-fabric-1.20.1-0.1.0.jar"
+hash-format = "sha512"
+hash = "32399a9c434a08de152d03b93bb1b6dc0b1994d3b27c760798b947c69a1e9b0277de0c4f3fbdd04c93b77e414732e64d00d49473f0622c09458df5633ceacce8"
+
+[update]
+[update.modrinth]
+mod-id = "TfUCUpDy"
+version = "Nfke7vhz"

@@ -198,6 +198,21 @@ hash = "d9c5210eba2029803417c8bb52345bac716834e13ba0dc989b11b4fe98007a98"
 metafile = true
 
 [[files]]
+file = "mods/player-emotes.pw.toml"
+hash = "85d674624aa8d26f447b8e86003487b0c17694eb4df842fbdc028a21c835811c"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
+metafile = true
+
+[[files]]
+file = "mods/playeranimatorapi.pw.toml"
+hash = "1d9d7beb37be5f3678a89f979936a514a0576343c7ea02d1ab1f21be98709a14"
+metafile = true
+
+[[files]]
 file = "mods/porting_lib.pw.toml"
 hash = "dab6a10080d3eac8fc975616ca9745e9b66391d7bec03766e630da247b6d4293"
 metafile = true

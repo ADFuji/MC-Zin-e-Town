@@ -1,12 +1,12 @@
-name = "Zinée Town 1.0.9"
+name = "Zinée Town 1.0.10"
 author = "AD"
-version = "1.0.9"
+version = "1.0.10"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d45c00a3b98dfc235e5266ed7e04930414f9a068d8730efb0f9aeb4ae33ed636"
+hash = "c1c5314d042d8c5446a40d296aa0d516f0b9574c346685fcb7ba552f161a28b4"
 
 [versions]
 fabric = "0.17.0"

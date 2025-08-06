@@ -219,6 +219,11 @@ hash = "177b37256afd171f2e5447434057f604acd09b5328e85e46ed4c5399f90269f5"
 metafile = true
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "18d84c132f116eedf06e967346e98868cca5483f9015cfbc366a35b5eb223971"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true

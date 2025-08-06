@@ -34,6 +34,11 @@ hash = "a1e024094c28068c99a6da1c5867cbd4e66a315718039659bfa533a138762d9e"
 metafile = true
 
 [[files]]
+file = "mods/camera-mod.pw.toml"
+hash = "46807a76af96c004997bf1fd867d9d2e02a8fa1ccf20ef3bcccef0b2ecd3294b"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "58d6861337626edf09635b6bc0bc45f49286c2517a234cb50baee9a23c538fc6"
 metafile = true
